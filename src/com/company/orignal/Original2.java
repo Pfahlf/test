@@ -1,4 +1,4 @@
 package com.company.orignal;
 
-public class Original1 {
+public class Original2 {
 }
